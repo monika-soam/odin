@@ -86,19 +86,22 @@
         font-size: 36px;
         color: #1F2937;
         width: 100%;
-        height: 450px;
+        height: 400px;
         margin: 0px 100px 100px 0px;
     }
     
     .quotes_p1 {
         text-align: left;
         padding: 100px 220px 0px 250px;
+        font-size: 32px;
+        font-weight: lighter;
+        font-style: italic;
     }
     
     .quotes_p2 {
         font-size: 25px;
         text-align: right;
-        margin-right: 280px;
+        margin-right: 230px;
         margin-bottom: 480px;
     }
     
