@@ -1,0 +1,138 @@
+    body {
+        text-align: center;
+    }
+    
+    .main_div_content {
+        display: grid;
+        grid-template-columns: 200px 200px 200px 200px;
+        grid-template-rows: 200px;
+    }
+    
+    .main1 {
+        display: grid;
+        grid-template-rows: 100px;
+        margin-right: 250px;
+        margin-left: 250px;
+    }
+    
+    .main1 h1 {
+        font-size: 36px;
+        font-weight: bold;
+        color: #1F2937;
+    }
+    
+    .header1 {
+        display: grid;
+        grid-template-columns: 600px 600px;
+    }
+    
+    .header1 p {
+        font-size: 24px;
+        color: #F9FAF8;
+        margin-right: 150px;
+        margin-top: 20px;
+    }
+    
+    .logo1 {
+        display: grid;
+        grid-template-columns: 100px 100px 100px;
+        list-style: none;
+        font-size: 11px;
+        color: #E5E7EB;
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+    
+    .header {
+        background-color: #1F2937;
+        color: white;
+    }
+    
+    .div1_header {
+        display: grid;
+        grid-template-columns: 550px 200px;
+    }
+    
+    .btn1 {
+        width: 100px;
+        height: 30px;
+        padding-bottom: 5px;
+    }
+    
+    .quotes {
+        background-color: #E5E7EB;
+        font-size: 36px;
+        color: #1F2937;
+        width: 100%;
+        height: 450px;
+        margin: 50px 100px 100px 0px;
+    }
+    
+    .quotes_p1 {
+        text-align: left;
+        padding: 100px 220px 0px 250px;
+    }
+    
+    .quotes_p2 {
+        font-size: 25px;
+        text-align: right;
+        margin-right: 280px;
+        margin-bottom: 480px;
+    }
+    
+    .div2_header {
+        margin: 80px 0px 100px 150px;
+        text-align: left;
+    }
+    
+    .div2_header p {
+        font-size: 11px;
+    }
+    
+    .div1_header img {
+        width: 350px;
+        height: 200px;
+        margin: 100px 20px 100px 100px;
+    }
+    
+    .footer {
+        background-color: #1F2937;
+        color: white;
+        width: 100%;
+        height: 70px;
+        padding: 30px 0px 30px 0px;
+        font-size: 11px;
+    }
+    
+    h2 {
+        font-size: 48px;
+        color: #F9FAF8 extra bold;
+    }
+    
+    .div_header_p {
+        font-size: 18px;
+    }
+    
+    .div1_main2 {
+        width: 70%;
+        height: 100px;
+        margin-bottom: 70px;
+    }
+    
+    .div2_main2 {
+        display: grid;
+        grid-template-columns: 60% 40%;
+    }
+    
+    .content {
+        text-align: left;
+        padding: 20px 50px 50px 150px;
+    }
+    
+    .button2 {
+        width: 100px;
+        margin: 30px 200px 0px 100px;
+        border-style: solid;
+        border-color: white;
+        border-width: 1px;
+    }
